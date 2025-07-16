@@ -19,3 +19,6 @@ Autosave functionality every few seconds
 Unique document ID generation via URL routing
 Quill editor for formatting text
 This project demonstrates the use of full-stack JavaScript technologies for building real-time applications. It integrates frontend reactivity, backend scalability, and real-time communication using sockets, making it a solid foundation for more complex collaborative platforms.
+*OUTPUT
+
+![Image](https://github.com/user-attachments/assets/df3b21af-49b4-4ef2-8275-948f946d1cf2)
